@@ -33,7 +33,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
  <a href="https://arians.itch.io/" target="blank"><img align="center"
-      src="https://pbs.twimg.com/profile_images/1212846124945428480/w1htiJ0v_400x400.png"
+      src="[https://pbs.twimg.com/profile_images/1212846124945428480/w1htiJ0v_400x400.png](https://cdn-1.webcatalog.io/catalog/itch-io/itch-io-icon-filled.png)"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
@@ -72,7 +72,7 @@
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://www.renpy.org/" target="_blank" rel="noreferrer"> <img
-      src="https://www.renpy.org/static/index-logo.png"
+      src="[https://www.renpy.org/static/index-logo.png](https://external-preview.redd.it/sYEri5dlesnc-L-wefpXAR-BWrK5xzlPpTx9S-9fiDU.jpg?auto=webp&s=16d978bec53f6d6184a552e608e53d419799a281)"
       alt="react" width="40" height="40" /> </a> </p>
 
 <br>

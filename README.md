@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Agus Rian S a.k.a SUGA</h1>
-<h3 align="center">Student at UPI🏫</h3>
+<h1 align="center">Hi 👋, I'm Agus Rian S a.k.a IAN</h1>
+<h3 align="center">Technical Analyst</h3>
 
 <br>
 
